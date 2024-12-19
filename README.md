@@ -26,10 +26,9 @@ This project is an interactive dashboard designed to explore and analyze data re
 - Optimized layout for desktop and large-screen usage.
 
 ## Technologies Used
-- **Visualization Tools**: Power BI / Tableau / Python Dash (specify your tool of choice).
-- **Data Sources**: Aggregated from platforms like Kaggle, LinkedIn, Glassdoor, or other relevant sources.
-- **Programming**: Python, SQL, or R for data cleaning and preprocessing (if applicable).
-- **Libraries** (if applicable): Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+- **Visualization Tools**: Power BI. 
+- **Data Sources**: Aggregated from platforms like Kaggle and other relevant sources.
+- **Tool** : Afvace excel.
 
 ## Installation and Usage
 
@@ -90,23 +89,12 @@ If available, provide a link to a hosted version of the dashboard or a video wal
 - **Global Coverage**: Expand the dataset to include job data from multiple countries.
 - **Responsive Design**: Optimize the dashboard for mobile and tablet use.
 
-## Contribution Guidelines
-We welcome contributions to improve this project. If you have suggestions or would like to add new features, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
     ```bash
     git checkout -b feature-name
     ```
 3. Commit your changes and push them to your fork.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as needed.
-
-## Acknowledgments
-- **Data Source**: [Credit your data source here.]
-- **Tools**: Acknowledgment for any libraries, tools, or resources used in this project.
-- **Inspiration**: Mention if any dashboards or projects inspired this work.
 
 ---
 Thank you for exploring this project! For any questions or feedback, feel free to reach out or open an issue on this repository.
